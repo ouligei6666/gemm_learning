@@ -45,4 +45,4 @@ C的第i行第j列的元素=A的第i行与B的第j列做乘累加
 
 
 参考文献：
-\[1\]\ https://blog.csdn.net/Sunine_686/article/details/149275141 
+\[1\] https://blog.csdn.net/Sunine_686/article/details/149275141 
